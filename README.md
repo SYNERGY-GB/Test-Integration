@@ -82,4 +82,4 @@ Estas credenciales deben encontrarse en un archivo llamado `database_credentials
 
 ###¡Finalmente!
 
-Al terminar los objetivos solicitados, es necesario que borres la carpeta `node_modules` generada al instalar las dependencias necesarias y que almacenes tu código en el repositorio, para ello, usa el comando `git push origin admision/nombre-apellido` donde `admision/nombre-apellido` es tu `branch` del repositorio que creaste previamente.
+Al terminar el servicio, es necesario que borres la carpeta `node_modules` generada al instalar las dependencias necesarias y que almacenes tu código en el `branch` que creaste. Para ello, agrega los cambios, haz `commit` y finalmente haz `push`.
