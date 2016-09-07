@@ -8,7 +8,7 @@ Esta prueba está diseñada para medir tus destrezas en las siguientes áreas de
 + Postman
 + Bases de datos
 
-Tu tarea es realizar un servicio web REST utilizando [`Express.js`](https://expressjs.com/) que es un framework basado en [`Node.js`](https://nodejs.org/en/).
+Tu tarea es realizar un servicio web REST utilizando el framework [`Express.js`](https://expressjs.com/). Antes de comenzar, debes hacer los siguientes pasos:
 
 + Genera una llave SSH pública.
 
@@ -16,13 +16,13 @@ Tu tarea es realizar un servicio web REST utilizando [`Express.js`](https://expr
 
 + Usa la consola de GIT para clonar el repositorio con el siguiente comando `git clone` vía SSH.
 
-+ Después de haber clonado el repositorio, debes crear una rama que contenga tu nombre con el siguiente formato `admision/nombre-apellido`. Para hacerlo, debes ejecutar el siguiente comando en la consola GIT: `git checkout -b admision/nombre-apellido`
++ Después de haber clonado el repositorio, debes crear un `branch` que contenga tu nombre con el siguiente formato `admision/nombre-apellido`. Para hacerlo, debes ejecutar el siguiente comando en la consola GIT: `git checkout -b admision/nombre-apellido`
 
 El nombre del servicio a crear debe ser `admision` y se deben atender las siguientes peticiones:
 
 ### GET `admision`
 
-Debe obtener los datos de albunes que yacen en formato JSON [aquí](http://jsonplaceholder.typicode.com/albums). Adicionalmente, debe agregar un atributo llamado `hash` que sea el resultado de aplicarle `SHA1` al campo `title`.
+Debe obtener los datos de albunes que yacen en formato JSON [aquí](http://jsonplaceholder.typicode.com/albums). Adicionalmente, debe agregar un atributo llamado `hash` que sea el resultado de aplicarle el algoritmo de `SHA1` al campo `title`.
 
 Un ejemplo de la estructura inicial es la siguiente: 
 
@@ -82,4 +82,4 @@ Estas credenciales deben encontrarse en un archivo llamado `database_credentials
 
 ###¡Finalmente!
 
-Al terminar los objetivos solicitados, es necesario que borres la carpeta `node_modules` generada al instalar las dependencias necesarias y que hagas `push` de tus cambios al repositorio, específicamente a la rama que creaste con tu nombre y apellido.
+Al terminar los objetivos solicitados, es necesario que borres la carpeta `node_modules` generada al instalar las dependencias necesarias y que almacenes tu código en el repositorio, para ello, usa el comando `git push origin admision/nombre-apellido` donde `admision/nombre-apellido` es tu `branch` del repositorio que creaste previamente.
