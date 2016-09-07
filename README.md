@@ -78,7 +78,7 @@ El servicio debe conectarse a la base de datos `MySQL` llamada `prueba_admision`
 + Username: admision.test
 + Password: Testsgb123
 
-Estas credenciales deben encontrarse en un archivo llamado `database_credentials.properties` el cual debe ser leído al momento de invocar el servicio para crear la conexión a la base de datos. Adicionalmente,  tus datos deben ser almacenados en la tabla `persona`.
+Estas credenciales junto con el nombre de la base de datos deben encontrarse en un archivo llamado `database.properties` el cual debe ser leído al momento de invocar el servicio para crear la conexión a la base de datos. Adicionalmente,  tus datos deben ser almacenados en la tabla `persona`.
 
 ###¡Finalmente!
 
