@@ -37,8 +37,7 @@ Un ejemplo de la estructura inicial es la siguiente:
 	    "userId": 1,
 	    "id": 2,
 	    "title": "sunt qui excepturi placeat culpa"
-	}, 
-	...
+	}
 ]
 ```
 
@@ -57,8 +56,7 @@ Consecuentemente, la estructura final debe ser como se muestra a continuación:
 	    "id": 1,
 	    "title": "Hoy es un lindo día",
 	    "hash": "d8acdc58f663a93c508a1b158e1c09eb3a288fd9"
-	}, 
-	...
+	}
 ]
 ```
 
