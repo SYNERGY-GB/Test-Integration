@@ -82,4 +82,4 @@ Estas credenciales deben encontrarse en un archivo llamado `database_credentials
 
 ###¡Finalmente!
 
-Al terminar el servicio, es necesario que borres la carpeta `node_modules` generada al instalar las dependencias necesarias y que almacenes tu código en el `branch` que creaste. Para ello, agrega los cambios, haz `commit` y finalmente haz `push`.
+Al terminar el servicio, es necesario que borres la carpeta `node_modules` generada al instalar localmente las dependencias que consideraste necesarias. Que verifiques que las dependencias y sus versiones se guardaron en el archivo `package.json`. Y finalmente, que almacenes tu código en el `branch` que creaste con tu nombre y apellido. Para ello, agrega los cambios, haz `commit` y luego haz `push`.
