@@ -18,7 +18,7 @@ Tu tarea es realizar un servicio web REST utilizando el framework [`Express.js`]
 
 + Después de haber clonado el repositorio, debes crear un `branch` que contenga tu nombre con el siguiente formato `admision/nombre-apellido`. Para hacerlo, debes ejecutar el siguiente comando en la consola GIT `git checkout -b admision/nombre-apellido`
 
-El servicio a crear debe llamarse `admision` y éste debe atender las siguientes peticiones HTTP:
+El servicio a crear debe llamarse `admision` y éste debe atender las peticiones HTTP que se mencionan a continuación.
 
 ### GET `admision`
 
