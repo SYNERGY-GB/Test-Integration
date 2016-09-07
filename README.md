@@ -14,7 +14,7 @@ Tu tarea es realizar un servicio web REST utilizando [`Express.js`](https://expr
 
 + Agregala a tu cuenta de GitHub.
 
-+ Usa la consola de GIT para clonar el repositorio con el siguiente comando: `git clone` vía SSH.
++ Usa la consola de GIT para clonar el repositorio con el siguiente comando `git clone` vía SSH.
 
 + Después de haber clonado el repositorio, debes crear una rama que contenga tu nombre con el siguiente formato `admision/nombre-apellido`. Para hacerlo, debes ejecutar el siguiente comando en la consola GIT: `git checkout -b admision/nombre-apellido`
 
