@@ -54,7 +54,7 @@ Consecuentemente, la estructura final debe ser como se muestra a continuación:
 	{
 		"userId": 1,
 	    "id": 2,
-	    "title": "sunt qui excepturi placeat culpa"
+	    "title": "sunt qui excepturi placeat culpa",
 		"hash": "d2a09f04fc7557af48b5cab5b930592dd1e9c06c"
 	}
 ]
