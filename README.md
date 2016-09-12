@@ -3,6 +3,7 @@
 Esta prueba está diseñada para medir tus destrezas en las siguientes áreas de la programación de servicios web y la programación en general. Para resolver esta prueba debes tener en cuenta que debes usar las siguientes tecnologías:
 
 + GIT
++ NPM
 + JavaScript
 + Restful Web Services
 + Postman
@@ -12,11 +13,11 @@ Tu tarea es realizar un servicio web REST utilizando el framework [`Express.js`]
 
 + Genera una llave SSH pública.
 
-+ Agregala a tu cuenta de GitHub.
++ Agrégala a tu cuenta de GitHub.
 
 + Usa la consola de GIT para clonar el repositorio con el siguiente comando `git clone` vía SSH.
 
-+ Después de haber clonado el repositorio, debes crear un `branch` que contenga tu nombre con el siguiente formato `admision/nombre-apellido`. Para hacerlo, debes ejecutar el siguiente comando en la consola GIT `git checkout -b admision/nombre-apellido`
++ Crea tu `branch` siguiendo este formato `admision/nombre-apellido`. Para hacerlo, debes ejecutar el siguiente comando en la consola GIT `git checkout -b admision/nombre-apellido`.
 
 El servicio a crear debe llamarse `admision` y éste debe atender las peticiones HTTP que se mencionan a continuación.
 
