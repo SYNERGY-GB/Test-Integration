@@ -1,6 +1,6 @@
 # Prueba de admisión: Destrezas de Integración
 
-Esta prueba está diseñada para medir tus destrezas en las siguientes áreas de la programación de servicios web y la programación en general. Para resolver esta prueba debes tener en cuenta que debes usar las siguientes tecnologías:
+Esta prueba está diseñada para medir tus destrezas en el área de integración. Para resolver esta prueba debes tener en cuenta que debes usar las siguientes tecnologías:
 
 + GIT
 + NPM
@@ -83,4 +83,4 @@ Estas credenciales junto con el nombre de la base de datos deben encontrarse en 
 
 ###¡Finalmente!
 
-Al terminar el servicio, es necesario que borres la carpeta `node_modules` generada al instalar localmente las dependencias que consideraste necesarias. Que verifiques que las dependencias y sus versiones se guardaron en el archivo `package.json`. Y finalmente, que almacenes tu código en el `branch` que creaste con tu nombre y apellido. Para ello, agrega los cambios, haz `commit` y luego haz `push`.
+Almacena tu código en el `branch` que creaste con tu nombre y apellido. Para ello, agrega los cambios, haz `commit` y luego haz `push`.
