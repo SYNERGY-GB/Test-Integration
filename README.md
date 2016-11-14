@@ -75,9 +75,10 @@ Debe almacenar en base de datos tus datos personales. Para ello, debes enviar en
 
 El servicio debe conectarse a la base de datos `MySQL` llamada `prueba_admision` con las siguientes credenciales:
 
-+ Host: 172.16.17.90
-+ Username: admision.test
-+ Password: Testsgb123
++ Host: sql9.freemysqlhosting.net
++ Port: 3306
++ Username: sql9144354
++ Password: 7TW2ccREF1
 
 Estas credenciales junto con el nombre de la base de datos deben encontrarse en un archivo llamado `database.properties` el cual debe ser leído al momento de invocar el servicio para crear la conexión a la base de datos. Adicionalmente,  tus datos deben ser almacenados en la tabla `persona`.
 
