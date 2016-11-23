@@ -84,4 +84,4 @@ Estas credenciales junto con el nombre de la base de datos deben encontrarse en 
 
 ###¡Finalmente!
 
-Almacena tu código en el `branch` que creaste con tu nombre y apellido. Para ello, agrega los cambios, haz `commit` y luego haz `push`.
+Almacena tu código en el `branch` que creaste con tu nombre y apellido. No debes agregar la carpeta `node_modules` al repositorio. Igualmente, debes almacenar screenshots de Postman consumiendo los servicios creados en una carpeta de nombre `evidencias`. Verfica tus cambios, `commit` y luego `push`.
