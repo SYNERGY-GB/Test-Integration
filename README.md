@@ -75,7 +75,7 @@ Debe almacenar en base de datos tus datos personales. Para ello, debes enviar en
 
 El servicio debe conectarse a la base de datos `MySQL` llamada `prueba_admision` con las siguientes credenciales:
 
-+ Host: sql9.freemysqlhosting.net
++ Host: db4free.net
 + Port: 3306
 + Username: sql9144354
 + Password: 7TW2ccREF1
